@@ -1,0 +1,2 @@
+This repository is for hosting the Ethernet phy EVB demo binary image. Please see the release folder for binary.
+The source code for this demo binary is present in https://github.com/Microchip-Ethernet/EVB-KSZ9477
